@@ -3,4 +3,4 @@ Hacker theme using javascript DOM methods
 
 # Demo
 
-![hackertheme](hacker.gif)
+![hackertheme](hackertheme.gif)
